@@ -12,3 +12,5 @@
         (else (list n "nope"))))
 
 (map fizzbuzz (iota 10 1))
+
+; TODO: Sum all multiples of 3 or 5 below 1000
