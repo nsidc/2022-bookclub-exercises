@@ -1,3 +1,5 @@
+# 2022-03-09
+
 * started taking minutes at 5pm
 
 * going through the book, on page 5
@@ -26,7 +28,6 @@ https://stackoverflow.com/questions/50225102/is-there-a-shorthand-syntax-for-lis
 
 * why don't book examples have quotes, when we need them to actually run
   examples in the terminal? see footnote on very first question in chapter
-
 
 * `car` = `head`, `cdr` = `tail`, how to create aliases?
 
